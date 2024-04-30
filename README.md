@@ -1,6 +1,6 @@
 # Denoising Autoencoder for Image Classification and Generation
 
-This project focuses on training denoising autoencoders (AE) and variational autoencoders (VAE) on an augmented version of the MNIST dataset for image classification from noisy images, and training a denoising conditiona-VAE (CVAE) on the same data for image generation.
+This project focuses on training denoising autoencoders (AE) and variational autoencoders (VAE) on an augmented version of the MNIST dataset for image classification from noisy images, and training a denoising conditional-VAE (CVAE) on the same data for image generation.
 
 ## Project Structure
 
